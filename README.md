@@ -1,3 +1,12 @@
 # Sample Portfolio
 
-Hi elcome to the sample portfolio. It's coming up tommorro hen I code ith the help of Html and css . Share with you soon.
+Hey! Welcome to my portfolio.
+
+It's coming up tomorrow when I learn HTML and CSS with Tanay Pratap live on Youtube.
+
+For now, I know:
+
+1. Javascript
+1. Node
+1. repl.it
+1. Chalk
